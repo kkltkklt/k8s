@@ -1,1 +1,1 @@
-From gcr.io/google-containers/dns/k8s-dns-node-cache:1.15.16
+From gcr.io/google-containers/kube-proxy:v1.19.3
